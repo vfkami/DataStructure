@@ -4,8 +4,8 @@ This repository serves as a comprehensive collection of sorting algorithms, data
 ## Sorting Algorithms:
 1. Bubble Sort ✅
 2. Insertion Sort ✅
-3. Selection Sort
-4. Merge Sort
+3. Selection Sort ✅
+4. Merge Sort ✅
 5. Quick Sort
 6. Heap Sort
 7. Counting Sort
